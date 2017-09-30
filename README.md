@@ -21,6 +21,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 * [Becoming a Software Testing Expert - James Marcus Bach](https://www.youtube.com/watch?v=3FTwaojNkXw)
 * [It Is Possible to Do Object-Oriented Programming in Java - Kevlin Henney](https://vimeo.com/56748054)
 * [The Most Important Design Guideline - Scott Meyers](https://www.youtube.com/watch?v=5tg1ONG18H8)
+* [Introduction to Software Architecture - George Fairbanks](https://www.youtube.com/watch?v=x30DcBfCJRI)
 
 ### Books
 * [Software Requirements & Specifications - Michael Jackson](http://c2.com/cgi/wiki?SoftwareRequirementsAndSpecifications)
