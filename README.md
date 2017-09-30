@@ -7,6 +7,9 @@ This is the list I wish I'd started ages ago.
 
 # Critical Few
 * [The Future of Programming - Bret Victor](https://vimeo.com/71278954)
+  * Why does it matter?
+    * [...]
+  * #Inspirational #Fundamental
 
 
 
