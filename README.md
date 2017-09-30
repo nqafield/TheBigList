@@ -3,7 +3,7 @@ This is the list I wish I'd started ages ago.
 
 (The name is more anticipatory than strictly accurate.)
 
-
+Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319).
 
 # Critical Few
 * [The Future of Programming - Bret Victor](https://vimeo.com/71278954)
