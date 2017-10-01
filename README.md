@@ -18,6 +18,10 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 *The idea that there is a genuine concept of Object Oriented Programming out there somewhere - which most of us have missed - is intriguing and sometimes infuriating. Enjoy!*
 * [A Taste of Trygve - James Coplien](https://www.youtube.com/watch?v=pjd0IB_8xD8)
 
+# 97 Web Things Every Programmer Should Know About
+* [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book)
+* [Adobe Kuler](https://color.adobe.com/)
+
 ## Holding Area
 ### Talks
 * [Declarative Thinking, Declarative Practice - Kevlin Henney](https://www.youtube.com/watch?v=nrVIlhtoE3Y)
