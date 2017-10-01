@@ -17,6 +17,11 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
     * It's a fantastic "conceit", very well presented. (The only thing better - from this point of view - that comes to mind is "Growing a Language". Coincidentally - I assume - both these talks feature acetates and OHPs, but for slightly different reasons.)
   * Inspirational, Fundamental, History
 * [How to Write a Method - Kevlin Henney](https://vimeo.com/74316116)
+  * Why does it matter?
+    * Questions the basics of coding style and posits the idea that style is often not as subjective as we like to think it is.
+    * That feeling when you figured you knew this already but had no idea how to explain it or justify it...
+    * “It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.” - Doug Crockford
+  * Provocative
 
 # Real OO?
 *The idea that there is a genuine concept of Object Oriented Programming out there somewhere - which most of us have missed - is intriguing and sometimes infuriating. Enjoy!*
