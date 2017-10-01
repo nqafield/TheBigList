@@ -10,7 +10,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
   * Why does it matter?
     * I keep coming back to this talk. It's genius in so many ways.
     * It's a fantastic "conceit", very well presented. (The only thing better - from this point of view - that comes to mind is "Growing a Language". Coincidentally, most likely, both these talks feature acetates and OHPs, but for slightly different reasons.)
-  * #Inspirational #Fundamental
+  * Inspirational, Fundamental, History
 
 ## Holding Area
 ### Talks
@@ -41,6 +41,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 * [A Mathematical Theory of Communication - C. E. Shannon](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf)
 * [Managing the Development of Large Software Systems - Dr. Winston W. Royce](https://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf)
 * [The Original MVC Reports - Trygve Reenskaug](https://heim.ifi.uio.no/~trygver/2007/MVC_Originals.pdf)
+* [The Rise of Worse is Better - Richard P. Gabriel](http://dreamsongs.com/RiseOfWorseIsBetter.html)
 
 ### Classics (in some way or other) that I haven't actually read or watched yet
 * [Null References: The Billion Dollar Mistake - Tony Hoare](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
