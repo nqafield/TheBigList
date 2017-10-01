@@ -12,6 +12,10 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
     * It's a fantastic "conceit", very well presented. (The only thing better - from this point of view - that comes to mind is "Growing a Language". Coincidentally, most likely, both these talks feature acetates and OHPs, but for slightly different reasons.)
   * Inspirational, Fundamental, History
 
+# Real OO?
+*The idea that there is a real concept of Object Oriented Programming out there somewhere, that most of us have missed, is intriguing and sometimes infuriating. Enjoy!*
+* [A Taste of Trygve - James Coplien](https://www.youtube.com/watch?v=pjd0IB_8xD8)
+
 ## Holding Area
 ### Talks
 * [Declarative Thinking, Declarative Practice - Kevlin Henney](https://www.youtube.com/watch?v=nrVIlhtoE3Y)
