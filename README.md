@@ -69,6 +69,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 * [Managing the Development of Large Software Systems - Dr. Winston W. Royce](https://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf)
 * [The Original MVC Reports - Trygve Reenskaug](https://heim.ifi.uio.no/~trygver/2007/MVC_Originals.pdf)
 * [The Rise of Worse is Better - Richard P. Gabriel](http://dreamsongs.com/RiseOfWorseIsBetter.html)
+* [Working With Objects — In Computer and Mind - Trygve & Cope](http://folk.uio.no/trygver/2015/CommSense-1.14.1.pdf)
 
 ### Classics (in some way or other) that I haven't actually read or watched yet
 * [Null References: The Billion Dollar Mistake - Tony Hoare](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
