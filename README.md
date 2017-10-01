@@ -41,6 +41,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 * [The Most Important Design Guideline - Scott Meyers](https://www.youtube.com/watch?v=5tg1ONG18H8)
 * [Introduction to Software Architecture - George Fairbanks](https://www.youtube.com/watch?v=x30DcBfCJRI)
 * [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0)
+* [Clojure: Programming with Hand Tools - Tim Ewald](https://www.youtube.com/watch?v=ShEez0JkOFw)
 
 ### Books
 * [Software Requirements & Specifications - Michael Jackson](http://c2.com/cgi/wiki?SoftwareRequirementsAndSpecifications)
