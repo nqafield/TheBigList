@@ -14,7 +14,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 * [The Future of Programming - Bret Victor](https://vimeo.com/71278954)
   * Why does it matter?
     * I keep coming back to this talk. It's genius in so many ways.
-    * It's a fantastic "conceit", very well presented. (The only<sup name="#super">[1](#footnote)</sup> thing better - from this point of view - that comes to mind is "Growing a Language". Coincidentally - I assume - both these talks feature acetates and OHPs, but for slightly different reasons.)
+    * It's a fantastic "conceit", very well presented. (The only<sup name="super">[1](#footnote)</sup> thing better - from this point of view - that comes to mind is "Growing a Language". Coincidentally - I assume - both these talks feature acetates and OHPs, but for slightly different reasons.)
   * Inspirational, Fundamental, History
 * [How to Write a Method - Kevlin Henney](https://vimeo.com/74316116)
   * Why does it matter?
