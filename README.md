@@ -14,7 +14,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 * [The Future of Programming - Bret Victor](https://vimeo.com/71278954)
   * Why does it matter?
     * I keep coming back to this talk. It's genius in so many ways.
-    * It's a fantastic "conceit", very well presented. (The only thing better - from this point of view - that comes to mind is "Growing a Language". Coincidentally - I assume - both these talks feature acetates and OHPs, but for slightly different reasons.)
+    * It's a fantastic "conceit", very well presented. (The only<sup>[1](#footnote)</sup> thing better - from this point of view - that comes to mind is "Growing a Language". Coincidentally - I assume - both these talks feature acetates and OHPs, but for slightly different reasons.)
   * Inspirational, Fundamental, History
 * [How to Write a Method - Kevlin Henney](https://vimeo.com/74316116)
   * Why does it matter?
@@ -76,3 +76,5 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 
 ### These folks are onto something but I might need to watch again to know where to include them
 * [If considered harmful: How to eradicate 95% of all your bugs in one simple step - Jules May](https://www.youtube.com/watch?v=z43bmaMwagI)
+
+<sub><a name="footnote">1</a>: I'm reminded that while Bret Victor's talk is from the past (in more ways than one) there is also [this talk](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) which, at the time of writing, is from the future. [↩](#footnote)</sub>
