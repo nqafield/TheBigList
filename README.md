@@ -38,6 +38,9 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 * [Bret Victor](http://worrydream.com/)
 * [Dave Ackley](http://www.cs.unm.edu/~ackley/)
 
+# Fiendish forays into functional fields
+* [Boundaries - Gary Bernhardt](https://www.destroyallsoftware.com/talks/boundaries)
+
 ## Holding area
 ### Talks
 * [Declarative Thinking, Declarative Practice - Kevlin Henney](https://www.youtube.com/watch?v=nrVIlhtoE3Y)
