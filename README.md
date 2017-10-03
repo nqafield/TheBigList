@@ -43,6 +43,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 
 # If you live a sheltered programming life, ignore these
 * [The Problem with Time & Timezones - Tom Scott](https://www.youtube.com/watch?v=-5wpm-gesOY)
+* [Working with Time is Easy - Jon Skeet](https://www.youtube.com/watch?v=saeKBuPewcU)
 * [Internationalis(z)ing Code - Tom Scott](https://www.youtube.com/watch?v=0j74jcxSunY)
 
 ## Holding area
