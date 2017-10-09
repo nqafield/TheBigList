@@ -23,6 +23,11 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
     * “It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.” - Doug Crockford
   * Provocative
 
+# My current project defaults
+* [Clean Architecture and Design - Robert C. Martin](https://vimeo.com/97530863)
+* [Why I've Come to Prefer Fluent APIs Over Other Kinds of DSLs - John Slaby](https://www.infoq.com/presentations/dsl-fluent-api)
+* [TDD, where did it all go wrong? - Ian Cooper](https://vimeo.com/68375232)
+
 # Real OO?
 *The idea that there is a genuine concept of Object Oriented Programming out there somewhere - which most of us have missed - is intriguing and sometimes infuriating. Enjoy!*
 * [A Taste of Trygve - James Coplien](https://www.youtube.com/watch?v=pjd0IB_8xD8)
