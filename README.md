@@ -24,7 +24,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
   * Provocative
 
 # My current project defaults
-*Where I'm roughly coming from...*
+*Any project, of any reasonable size, in my current context, this is roughly where I'm coming from...*
 * [Clean Architecture and Design - Robert C. Martin](https://vimeo.com/97530863)
 * [TDD, where did it all go wrong? - Ian Cooper](https://vimeo.com/68375232)
 * [Why UX is not only the Responsibility of the UX-er - Janne Jul Jensen](https://www.youtube.com/watch?v=Tbu6G08n_Gw)
