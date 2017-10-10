@@ -33,8 +33,8 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 
 # Real OO?
 *The idea that there is a genuine concept of Object Oriented Programming out there somewhere - which most of us have missed - is intriguing and sometimes infuriating. Enjoy!*
-* [A Taste of Trygve - James Coplien](https://www.youtube.com/watch?v=pjd0IB_8xD8)
 * [Seven Virtues of a Good Object - Yegor Bugayenko](http://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
+* [A Taste of Trygve - James Coplien](https://www.youtube.com/watch?v=pjd0IB_8xD8)
 
 # 97 web things every programmer should know about
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book)
