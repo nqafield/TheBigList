@@ -55,6 +55,10 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 * [Working with Time is Easy - Jon Skeet](https://www.youtube.com/watch?v=saeKBuPewcU)
 * [Internationalis(z)ing Code - Tom Scott](https://www.youtube.com/watch?v=0j74jcxSunY)
 
+# 80:20 Videos
+*80% of the content of these videos seems like a complete waste of time. The 20% is thoroughly intriguing...*
+* [The Mess We're In - Joe Armstrong](https://vimeo.com/97408239)
+
 ## Holding area
 ### Talks
 * [Declarative Thinking, Declarative Practice - Kevlin Henney](https://www.youtube.com/watch?v=nrVIlhtoE3Y)
