@@ -94,4 +94,5 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 * [If considered harmful: How to eradicate 95% of all your bugs in one simple step - Jules May](https://www.youtube.com/watch?v=z43bmaMwagI)
 
 <sub><a id="footnote1"><sup>1</sup></a> I'm reminded that while Bret Victor's talk is from the past (in more ways than one) there is also [this talk](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) which, at the time of writing, is still from the future. [↩](#super1)</sub>
+
 <sub><a id="footnote2"><sup>2</sup></a> But with [this](http://www.yegor256.com/2017/03/24/tdd-that-works.html#comment-3238249519) caveat. [↩](#super2)</sub>
