@@ -14,7 +14,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 * [The Future of Programming - Bret Victor](https://vimeo.com/71278954)
   * Why does it matter?
     * I keep coming back to this talk. It's genius in so many ways.
-    * It's a fantastic "conceit", very well presented. (The only<sup name="super">[1](#footnote)</sup> thing better - from this point of view - that comes to mind is "Growing a Language". Coincidentally - I assume - both these talks feature acetates and OHPs, but for slightly different reasons.)
+    * It's a fantastic "conceit", very well presented. (The only<sup name="super1">[1](#footnote1)</sup> thing better - from this point of view - that comes to mind is "Growing a Language". Coincidentally - I assume - both these talks feature acetates and OHPs, but for slightly different reasons.)
   * Inspirational, Fundamental, History
 * [How to Write a Method - Kevlin Henney](https://vimeo.com/74316116)
   * Why does it matter?
@@ -27,7 +27,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 *For any project, of any reasonable size, in my current context, this is roughly where I'm coming from...*
 * [Clean Architecture and Design - Robert C. Martin](https://vimeo.com/97530863)
 * [TDD, where did it all go wrong? - Ian Cooper](https://vimeo.com/68375232)
-  * Perhaps tempered by [The TDD That Works for Me - Yegor Bugayenko](http://www.yegor256.com/2017/03/24/tdd-that-works.html)
+  * Perhaps tempered by, [The TDD That Works for Me - Yegor Bugayenko](http://www.yegor256.com/2017/03/24/tdd-that-works.html)<sup name="super2">[2](#footnote2)</sup>
 * [Why UX is not only the Responsibility of the UX-er - Janne Jul Jensen](https://www.youtube.com/watch?v=Tbu6G08n_Gw)
 * [Why I've Come to Prefer Fluent APIs Over Other Kinds of DSLs - John Slaby](https://www.infoq.com/presentations/dsl-fluent-api)
 
@@ -93,4 +93,5 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 ### These folks are onto something but I might need to watch again to know where to include them
 * [If considered harmful: How to eradicate 95% of all your bugs in one simple step - Jules May](https://www.youtube.com/watch?v=z43bmaMwagI)
 
-<sub><a id="footnote"><sup>1</sup></a> I'm reminded that while Bret Victor's talk is from the past (in more ways than one) there is also [this talk](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) which, at the time of writing, is still from the future. [↩](#super)</sub>
+<sub><a id="footnote1"><sup>1</sup></a> I'm reminded that while Bret Victor's talk is from the past (in more ways than one) there is also [this talk](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) which, at the time of writing, is still from the future. [↩](#super1)</sub>
+<sub><a id="footnote2"><sup>2</sup></a> But with [this](http://www.yegor256.com/2017/03/24/tdd-that-works.html#comment-3238249519) caveat. [↩](#super2)</sub>
