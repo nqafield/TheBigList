@@ -59,7 +59,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 *80% of the content of these videos seems like a complete waste of time. The 20% is thoroughly intriguing...*
 * [The Mess We're In - Joe Armstrong](https://vimeo.com/97408239)
 
-#"Simplify, simplify, simplify." (Henry David Thoreau)
+# "Simplify, simplify, simplify." (Henry David Thoreau)
 * Dan North thing?
 
 # Stuff that *apparently* has nothing to do with software
