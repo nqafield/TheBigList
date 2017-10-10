@@ -61,6 +61,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 
 # "Simplify, simplify, simplify." (Henry David Thoreau)
 * Dan North thing?
+Herb Sutter?
 
 # Stuff that *apparently* has nothing to do with software
 * (What happened to this list?)
