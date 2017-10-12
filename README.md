@@ -8,7 +8,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 ## TL;DR - Give me a quick taster...
 * [Code in the Language of the Domain - Dan North](http://programmer.97things.oreilly.com/wiki/index.php/Code_in_the_Language_of_the_Domain)
 * [Seeing Spaces - Bret Victor](https://vimeo.com/97903574)
-* [`Badger badger = new Badger()`](https://www.badgerbadgerbadger.com/)
+* [`Badger badger = new Badger()`](https://www.badgerbadgerbadger.com/)<sup name="super3">[3](#footnote3)</sup>
 
 # Critical few
 *This will not be an immutable list.*
@@ -109,3 +109,5 @@ Herb Sutter?
 <sub><a id="footnote1"><sup>1</sup></a> I'm reminded that while Bret Victor's talk is from the past (in more ways than one) there is also [this talk](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) which, at the time of writing, is still from the future. [↩](#super1)</sub>
 
 <sub><a id="footnote2"><sup>2</sup></a> But with [this caveat](http://www.yegor256.com/2017/03/24/tdd-that-works.html#comment-3238249519). [↩](#super2)</sub>
+
+<sub><a id="footnote3"><sup>3</sup></a> https://twitter.com/munificentbob/status/675769424410902528. [↩](#super3)</sub>
