@@ -8,6 +8,7 @@ Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319)
 ## TL;DR - Give me a quick taster...
 * [Code in the Language of the Domain - Dan North](http://programmer.97things.oreilly.com/wiki/index.php/Code_in_the_Language_of_the_Domain)
 * [Seeing Spaces - Bret Victor](https://vimeo.com/97903574)
+* [`Badger badger = new Badger()`](https://www.badgerbadgerbadger.com/)
 
 # Critical few
 *This will not be an immutable list.*
