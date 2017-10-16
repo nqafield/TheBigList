@@ -66,6 +66,7 @@ Herb Sutter?
 
 # Stuff that *apparently* has nothing to do with software
 * (What happened to this list?)
+* (Politics and the English Language - George Orwell)[http://www.orwell.ru/library/essays/politics/english/e_polit/]
 
 ## Holding area
 ### Talks
