@@ -3,7 +3,7 @@ This is the list I wish I'd started ages ago.
 
 (The name is more anticipatory than strictly accurate.)
 
-Please [comment](https://gist.github.com/pa9ey/6225e00469eb8fd8925ab18076e06319).
+Please [comment](https://gist.github.com/nqafield/6225e00469eb8fd8925ab18076e06319).
 
 ## TL;DR - Give me a quick taster...
 * [Code in the Language of the Domain - Dan North](http://programmer.97things.oreilly.com/wiki/index.php/Code_in_the_Language_of_the_Domain)
