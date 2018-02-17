@@ -82,6 +82,7 @@ Herb Sutter?
 * [Software Requirements & Specifications - Michael Jackson](http://c2.com/cgi/wiki?SoftwareRequirementsAndSpecifications)
 
 ### Papers
+* [Statecharts: A Visual Formalism for Complex Systems - David Harel](http://www.wisdom.weizmann.ac.il/~dharel/SCANNED.PAPERS/Statecharts.pdf) <sup>([archive](https://web.archive.org/web/20180110002234/http://www.wisdom.weizmann.ac.il/~dharel/SCANNED.PAPERS/Statecharts.pdf))</sub>
 * [Go To Statement Considered Harmful - Edsger Dijkstra](http://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
 * [The Mythical Man-Month - Fred Brooks](https://www.cs.virginia.edu/~evans/greatworks/mythical.pdf)
 * [Chicken Chicken Chicken: Chicken Chicken - Doug Zongker](http://valbonne-consulting.com/papers/classic/chicken.pdf)
