@@ -68,6 +68,9 @@ Herb Sutter?
 * (What happened to this list?)
 * [Politics and the English Language - George Orwell](http://www.orwell.ru/library/essays/politics/english/e_polit/)
 
+# Soft skills (people have told me they matter)
+* [Soft Skillz: They Aren't Just For Humans Anymore - Brian H. Prince](https://www.youtube.com/watch?v=4KpYAwHr-3Q)
+
 ## Holding area
 ### Talks
 * [Declarative Thinking, Declarative Practice - Kevlin Henney](https://www.youtube.com/watch?v=nrVIlhtoE3Y)
@@ -105,8 +108,8 @@ Herb Sutter?
 ### Classics (in some way or other) that I haven't actually read or watched yet
 * [Null References: The Billion Dollar Mistake - Tony Hoare](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
 
-### These folks are onto something but I might need to watch again to know where to include them
-* [If considered harmful: How to eradicate 95% of all your bugs in one simple step - Jules May](https://www.youtube.com/watch?v=z43bmaMwagI)
+### These folks are onto something but I might need to watch again to know what to do about it
+* [If Considered Harmful: How to eradicate 95% of all your bugs in one simple step - Jules May](https://www.youtube.com/watch?v=z43bmaMwagI)
 
 <sub><a id="footnote1"><sup>1</sup></a> I'm reminded that while Bret Victor's talk is from the past (in more ways than one) there is also [this talk](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) which, at the time of writing, is still from the future. [↩](#super1)</sub>
 
