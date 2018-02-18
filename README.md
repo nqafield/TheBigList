@@ -85,7 +85,7 @@ Herb Sutter?
 * [Software Requirements & Specifications - Michael Jackson](http://c2.com/cgi/wiki?SoftwareRequirementsAndSpecifications)
 
 ### Papers
-* [Statecharts: A Visual Formalism for Complex Systems - David Harel](http://www.wisdom.weizmann.ac.il/~dharel/SCANNED.PAPERS/Statecharts.pdf) <sup>([archive](https://web.archive.org/web/20180110002234/http://www.wisdom.weizmann.ac.il/~dharel/SCANNED.PAPERS/Statecharts.pdf))</sub>
+* [Statecharts: A Visual Formalism for Complex Systems - David Harel](http://www.wisdom.weizmann.ac.il/~dharel/SCANNED.PAPERS/Statecharts.pdf) <sup>([archive](https://web.archive.org/web/20180110002234/http://www.wisdom.weizmann.ac.il/~dharel/SCANNED.PAPERS/Statecharts.pdf))</sup>
 * [Go To Statement Considered Harmful - Edsger Dijkstra](http://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
 * [The Mythical Man-Month - Fred Brooks](https://www.cs.virginia.edu/~evans/greatworks/mythical.pdf)
 * [Chicken Chicken Chicken: Chicken Chicken - Doug Zongker](http://valbonne-consulting.com/papers/classic/chicken.pdf)
@@ -107,6 +107,8 @@ Herb Sutter?
 
 ### Classics (in some way or other) that I haven't actually read or watched yet
 * [Null References: The Billion Dollar Mistake - Tony Hoare](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
+* [The Mother of All Demos - Douglas Engelbart](https://www.dougengelbart.org/firsts/1968-demo-interactive.html) <sup>([archive](https://web.archive.org/web/20180202063557/https://www.dougengelbart.org/firsts/1968-demo-interactive.html))</sup> <sub>([tl;dw](https://www.youtube.com/playlist?list=PLCGFadV4FqU2yAqCzKaxnKKXgnJBUrKTE))</sub>
+
 
 ### These folks are onto something but I might need to watch again to know what to do about it
 * [If Considered Harmful: How to eradicate 95% of all your bugs in one simple step - Jules May](https://www.youtube.com/watch?v=z43bmaMwagI)
