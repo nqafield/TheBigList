@@ -104,6 +104,10 @@ Herb Sutter?
 * [The Original MVC Reports - Trygve Reenskaug](https://heim.ifi.uio.no/~trygver/2007/MVC_Originals.pdf)
 * [The Rise of Worse is Better - Richard P. Gabriel](http://dreamsongs.com/RiseOfWorseIsBetter.html)
 * [Working With Objects — In Computer and Mind - Trygve & Cope](http://folk.uio.no/trygver/2015/CommSense-1.14.1.pdf)
+* Meta:
+  * [Seminal Papers in Software Engineering: The Carnegie Mellon Canonical Collection](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2038&context=isr)
+  * [An incomplete list of classic papers every Software Architect should read](https://blog.valbonne-consulting.com/2014/06/09/an-incomplete-list-of-classic-papers-every-software-architect-should-read/)
+  * [Theoretical Computer Science - What papers should everyone read?](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read)
 
 ### Classics (in some way or other) that I haven't actually read or watched yet
 * [Null References: The Billion Dollar Mistake - Tony Hoare](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
