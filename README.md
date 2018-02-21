@@ -9,6 +9,7 @@ Please [comment](https://gist.github.com/nqafield/6225e00469eb8fd8925ab18076e063
 * [Code in the Language of the Domain - Dan North](http://programmer.97things.oreilly.com/wiki/index.php/Code_in_the_Language_of_the_Domain)
 * [Seeing Spaces - Bret Victor](https://vimeo.com/97903574)
 * [`Badger badger = new Badger()`](https://www.badgerbadgerbadger.com/)<sup name="super3">[3](#footnote3)</sup>
+* What can I say? Watch pretty much anything by [Kevlin Henney](https://www.youtube.com/watch?v=1s-BGBA8Nqo) <sup name="super4">[4](#footnote4)</sup>
 
 # Critical few
 *This will not be an immutable list.*
@@ -122,3 +123,6 @@ Herb Sutter?
 <sub><a id="footnote2"><sup>2</sup></a> But with [this caveat](http://www.yegor256.com/2017/03/24/tdd-that-works.html#comment-3238249519). [↩](#super2)</sub>
 
 <sub><a id="footnote3"><sup>3</sup></a> https://twitter.com/munificentbob/status/675769424410902528. [↩](#super3)</sub>
+
+<sub><a id="footnote4"><sup>4</sup></a> The only thing I dislike about Kevlin (and *dislike* is too strong a word, even here) is his occasional cheap-shots on political matters. Everything else is sheer class.  [↩](#super4)</sub>
+
