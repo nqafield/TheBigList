@@ -33,6 +33,9 @@ Please [comment](https://gist.github.com/nqafield/6225e00469eb8fd8925ab18076e063
 * [Why UX is not only the Responsibility of the UX-er - Janne Jul Jensen](https://www.youtube.com/watch?v=Tbu6G08n_Gw)
 * [Why I've Come to Prefer Fluent APIs Over Other Kinds of DSLs - John Slaby](https://www.infoq.com/presentations/dsl-fluent-api)
 
+# Welcome to my project - here's what you need to know
+* [Question everything (even this statement, even this list)](https://vimeo.com/105758303)
+
 # Real OO?
 *The idea that there is a genuine concept of Object Oriented Programming out there somewhere - which most of us have missed - is intriguing and sometimes infuriating. Enjoy!*
 * [Seven Virtues of a Good Object - Yegor Bugayenko](http://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
