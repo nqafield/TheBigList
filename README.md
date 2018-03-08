@@ -37,6 +37,7 @@ Please [comment](https://gist.github.com/nqafield/6225e00469eb8fd8925ab18076e063
 *The idea that there is a genuine concept of Object Oriented Programming out there somewhere - which most of us have missed - is intriguing and sometimes infuriating. Enjoy!*
 * [Seven Virtues of a Good Object - Yegor Bugayenko](http://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
 * [A Taste of Trygve - James Coplien](https://www.youtube.com/watch?v=pjd0IB_8xD8)
+* [OOP: You’re Doing It Completely Wrong (Stir Trek Edition) - Kevin Berridge](https://vimeo.com/91672848)
 * Agile Architecture - Allen Holub ([Part 1](https://www.youtube.com/watch?v=0kRCFVGpX7k) <sup name="super5">[5](#footnote5)</sup>)
 
 # 97 web things every programmer should know about
