@@ -34,7 +34,7 @@ Please [comment](https://gist.github.com/nqafield/6225e00469eb8fd8925ab18076e063
 * [Why I've Come to Prefer Fluent APIs Over Other Kinds of DSLs - John Slaby](https://www.infoq.com/presentations/dsl-fluent-api)
 
 # Welcome to my project - here's what you need to know
-* [Question everything (even this statement, even this list)](https://vimeo.com/105758303)
+* [You should question everything (even this statement, even this list)](https://vimeo.com/105758303)
 * [The "obvious", brute-force approach to solving problems stops working for any reasonably-sized codebase](https://www.teamten.com/lawrence/writings/norris-numbers.html)
 
 # Real OO?
