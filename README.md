@@ -28,8 +28,10 @@ Please [comment](https://gist.github.com/nqafield/6225e00469eb8fd8925ab18076e063
 # My current project defaults
 *For any project, of any reasonable size, in my current context, this is roughly where I'm coming from...*
 * [Clean Architecture and Design - Robert C. Martin](https://vimeo.com/97530863)
+  * Currently under serious threat from the C4 Model
 * [TDD, where did it all go wrong? - Ian Cooper](https://vimeo.com/68375232)
   * Perhaps tempered by, [The TDD That Works for Me - Yegor Bugayenko](http://www.yegor256.com/2017/03/24/tdd-that-works.html)<sup name="super2">[2](#footnote2)</sup>
+  * Also intrigued by Property-Based Testing
 * [Why UX is not only the Responsibility of the UX-er - Janne Jul Jensen](https://www.youtube.com/watch?v=Tbu6G08n_Gw)
 * [Why I've Come to Prefer Fluent APIs Over Other Kinds of DSLs - John Slaby](https://www.infoq.com/presentations/dsl-fluent-api)
 
