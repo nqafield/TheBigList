@@ -35,6 +35,7 @@ Please [comment](https://gist.github.com/nqafield/6225e00469eb8fd8925ab18076e063
 
 # Welcome to my project - here's what you need to know
 * [Question everything (even this statement, even this list)](https://vimeo.com/105758303)
+* [The "obvious", brute-force approach to solving problems stops working for any reasonably-sized codebase](https://www.teamten.com/lawrence/writings/norris-numbers.html)
 
 # Real OO?
 *The idea that there is a genuine concept of Object Oriented Programming out there somewhere - which most of us have missed - is intriguing and sometimes infuriating. Enjoy!*
