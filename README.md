@@ -8,15 +8,15 @@ Please [comment](https://gist.github.com/nqafield/6225e00469eb8fd8925ab18076e063
 ## TL;DR - Give me a quick taster...
 * [Code in the Language of the Domain - Dan North](http://programmer.97things.oreilly.com/wiki/index.php/Code_in_the_Language_of_the_Domain)
 * [Seeing Spaces - Bret Victor](https://vimeo.com/97903574)
-* [`Badger badger = new Badger()`](https://www.badgerbadgerbadger.com/) <sup name="super3">[3](#footnote3)</sup>
-* What can I say? Watch pretty much anything by [Kevlin Henney](https://www.youtube.com/watch?v=1s-BGBA8Nqo) <sup name="super4">[4](#footnote4)</sup>
+* [`Badger badger = new Badger()`](https://www.badgerbadgerbadger.com/)<sup name="super3">[3](#footnote3)</sup>
+* What can I say? Watch pretty much anything by [Kevlin Henney](https://www.youtube.com/watch?v=1s-BGBA8Nqo)<sup name="super4">[4](#footnote4)</sup>
 
 # Critical few
 *This will not be an immutable list.*
 * [The Future of Programming - Bret Victor](https://vimeo.com/71278954)
   * Why does it matter?
     * I keep coming back to this talk. It's genius in so many ways.
-    * It's a fantastic "conceit", very well presented. (The only <sup name="super1">[1](#footnote1)</sup> thing better - from this point of view - that comes to mind is "Growing a Language". Coincidentally - I assume - both these talks feature acetates and OHPs, but for slightly different reasons.)
+    * It's a fantastic "conceit", very well presented. (The only<sup name="super1">[1](#footnote1)</sup> thing better - from this point of view - that comes to mind is "Growing a Language". Coincidentally - I assume - both these talks feature acetates and OHPs, but for slightly different reasons.)
   * Inspirational, Fundamental, History
 * [How to Write a Method - Kevlin Henney](https://vimeo.com/74316116)
   * Why does it matter?
@@ -29,7 +29,7 @@ Please [comment](https://gist.github.com/nqafield/6225e00469eb8fd8925ab18076e063
 *For any project, of any reasonable size, in my current context, this is roughly where I'm coming from...*
 * [Clean Architecture and Design - Robert C. Martin](https://vimeo.com/97530863)
 * [TDD, where did it all go wrong? - Ian Cooper](https://vimeo.com/68375232)
-  * Perhaps tempered by, [The TDD That Works for Me - Yegor Bugayenko](http://www.yegor256.com/2017/03/24/tdd-that-works.html) <sup name="super2">[2](#footnote2)</sup>
+  * Perhaps tempered by, [The TDD That Works for Me - Yegor Bugayenko](http://www.yegor256.com/2017/03/24/tdd-that-works.html)<sup name="super2">[2](#footnote2)</sup>
 * [Why UX is not only the Responsibility of the UX-er - Janne Jul Jensen](https://www.youtube.com/watch?v=Tbu6G08n_Gw)
 * [Why I've Come to Prefer Fluent APIs Over Other Kinds of DSLs - John Slaby](https://www.infoq.com/presentations/dsl-fluent-api)
 
@@ -42,7 +42,7 @@ Please [comment](https://gist.github.com/nqafield/6225e00469eb8fd8925ab18076e063
 * [Seven Virtues of a Good Object - Yegor Bugayenko](http://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
 * [A Taste of Trygve - James Coplien](https://www.youtube.com/watch?v=pjd0IB_8xD8)
 * [OOP: You’re Doing It Completely Wrong (Stir Trek Edition) - Kevin Berridge](https://vimeo.com/91672848)
-* Agile Architecture - Allen Holub ([Part 1](https://www.youtube.com/watch?v=0kRCFVGpX7k) <sup name="super5">[5](#footnote5)</sup>)
+* Agile Architecture - Allen Holub ([Part 1](https://www.youtube.com/watch?v=0kRCFVGpX7k)<sup name="super5">[5](#footnote5)</sup>)
 
 # 97 web things every programmer should know about
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book)
@@ -69,7 +69,7 @@ Please [comment](https://gist.github.com/nqafield/6225e00469eb8fd8925ab18076e063
 
 # "Simplify, simplify, simplify." (Henry David Thoreau)
 * Dan North thing?
-Herb Sutter?
+* Herb Sutter?
 
 # Stuff that *apparently* has nothing to do with software
 * (What happened to this list?)
@@ -116,7 +116,7 @@ Herb Sutter?
   * [An incomplete list of classic papers every Software Architect should read](https://blog.valbonne-consulting.com/2014/06/09/an-incomplete-list-of-classic-papers-every-software-architect-should-read/)
   * [Theoretical Computer Science - What papers should everyone read?](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read)
 
-### Classics (in some way or other) that I haven't actually read or watched yet
+### Classics (in some way or other) that I haven't actually read or watched (properly) yet
 * [Null References: The Billion Dollar Mistake - Tony Hoare](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
 * [The Mother of All Demos - Douglas Engelbart](https://www.dougengelbart.org/firsts/1968-demo-interactive.html) <sup>([archive](https://web.archive.org/web/20180202063557/https://www.dougengelbart.org/firsts/1968-demo-interactive.html))</sup> <sub>([tl;dw](https://www.youtube.com/playlist?list=PLCGFadV4FqU2yAqCzKaxnKKXgnJBUrKTE))</sub>
 
@@ -132,7 +132,7 @@ Herb Sutter?
 
 <sub><a id="footnote4"><sup>4</sup></a> The only thing I dislike about Kevlin (and *dislike* is too strong a word, even here) is his occasional cheap-shots on political matters. Everything else is sheer class.  [↩](#super4)</sub>
 
-<sub><a id="footnote5"><sup>5</sup></a> Anyone who bothers to watch this, and hears about Daniel Kahneman's facinating book, should also read [this](https://replicationindex.wordpress.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-went-of-the-rails/comment-page-1/#comment-1454) noble <sup name="super6">[6](#footnote6)</sup> comment. [↩](#super5)</sub>
+<sub><a id="footnote5"><sup>5</sup></a> Anyone who bothers to watch this, and hears about Daniel Kahneman's facinating book, should also read [this](https://replicationindex.wordpress.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-went-of-the-rails/comment-page-1/#comment-1454) noble<sup name="super6">[6](#footnote6)</sup> comment. [↩](#super5)</sub>
 
 <sub><a id="footnote6"><sup>6</sup></a> Although, it's a shame (and somewhat a sign of the times) that someone admitting that they got something wrong should be considered "noble". [↩](#super6)</sub>
 
