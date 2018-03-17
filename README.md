@@ -5,6 +5,20 @@ This is the list I wish I'd started ages ago.
 
 Please [comment](https://gist.github.com/nqafield/6225e00469eb8fd8925ab18076e06319).
 
+# **Announcement**
+I'm thinking the focus of this list should change.
+
+Part of the original premise was that it might be a small help in pointing people in the right direction and perhaps starting a "conversation" (by which I mean, of course, a debate) that perhaps would help some people (primarily myself) learn a few things, mostly about software. Unfortunately I've ~recently discovered~ become increasingly aware that humanity (or, at least, the vast majority of the software community) appears to have completely forgotten how to think and debate. And since I don't trust my own ideas one bit, unless I can back them up with objective rational argument (you know, on account of me not being an arrogant narcissist), then I didn't want to risk misleading naive people into further avenues of nonsense.
+
+It occurs to me that there is perhaps no greater level of arrogance (on an ordinary every-day scale) than someone imagining that their pronouncements on objective matters of fact should be listened to and accepted without challenge - and their challengers silenced. So, naturally, I want to avoid that. But if people really have forgotten how to think (and therefore can't rationally challenge me), then you can see I have a dilemma...
+
+So maybe the first goal of this list should be to attempt to point people in the direction of anything that might re-ignite their desire for the lost art of reason, and then they can hopefully start showing me where I'm wrong.
+
+**NB**: If I have said anything at all - even the tiniest jot or tittle - that is incorrect (either softwarily or otherwise), then please, by all means, come at me. ASAP. I'm here waiting. And you're welcome here. I want to be corrected.
+
+In the meantime, watch out for the new list.
+
+# The Old List
 ## TL;DR - Give me a quick taster...
 * [Code in the Language of the Domain - Dan North](http://programmer.97things.oreilly.com/wiki/index.php/Code_in_the_Language_of_the_Domain)
 * [Seeing Spaces - Bret Victor](https://vimeo.com/97903574)
