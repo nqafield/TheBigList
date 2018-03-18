@@ -29,8 +29,12 @@ In the meantime, watch out for the new list.
 [![Epistemology](pomos/Epistemology.png)](http://www.romans45.org/posters.htm)
 [![Absolutes](pomos/Absolutes.png)](http://www.romans45.org/posters.htm)
 
-## Recent reading
+## Recent reading/watching
 Currently: [Explaining Postmodernism - Stephen R. C. Hicks](https://www.amazon.co.uk/Explaining-Postmodernism-Skepticism-Socialism-Rousseau-ebook/dp/B005D53DG0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1521377245&sr=8-1)
+
+* [Why Beauty Matters - Roger Scruton](https://vimeo.com/101804860)
+  * Do I completely agree with the man or his film? Of course not. He's probably wrong about a bunch of stuff. But this is a massive improvement on the postmodernists who (to slightly reappropriate a phrase) are most of the time "not even wrong".
+  * [tweet](https://twitter.com/nqafield/status/962029449725206532) [tweet](https://twitter.com/Agile_Hulk/status/962055047784706048) [tweet](https://twitter.com/nqafield/status/962061730820968448)
 
 &nbsp;
 
