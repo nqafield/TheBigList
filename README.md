@@ -18,6 +18,11 @@ So maybe the first goal of this list should be to attempt to point people in the
 
 In the meantime, watch out for the new list.
 
+## Thoughts
+* What I realise I've probably been reacting (so violently) to is the decaying stench of Postmodernism.
+* "Postmodernism? Really? Isn't that a bit heavy for software development?"
+  * In a sense, this isn't just about software development. But even so, software, in most contexts, is largely about people and their assumptions and attitudes; relationships; communication; etc. And, increasingly, about politics and "activism" rather than tech. So these things are unavoidable even here.
+
 # The Old List
 ## TL;DR - Give me a quick taster...
 * [Code in the Language of the Domain - Dan North](http://programmer.97things.oreilly.com/wiki/index.php/Code_in_the_Language_of_the_Domain)
