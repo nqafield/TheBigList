@@ -14,7 +14,7 @@ It occurs to me that there is perhaps no greater level of arrogance (on an ordin
 
 So maybe the first goal of this list should be to attempt to point people in the direction of anything that might re-ignite their desire for the lost art of reason, and then they can hopefully start showing me where I'm wrong.
 
-**NB**: If I have said anything at all - even the tiniest jot or tittle - that is incorrect (either softwarily or otherwise), then please, by all means, come at me. ASAP. I'm here waiting. And you're welcome here. I want to be corrected.
+**NB**: If I have said anything at all - even the tiniest jot or tittle - that is incorrect (either softwarily or otherwise), then please, by all means, come at me. ASAP. I'm here waiting. And you're welcome [here](https://gist.github.com/nqafield/6225e00469eb8fd8925ab18076e06319). I want to be corrected.
 
 In the meantime, watch out for the new list.
 
