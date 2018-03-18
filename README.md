@@ -29,6 +29,9 @@ In the meantime, watch out for the new list.
 [![Epistemology](pomos/Epistemology.png)](http://www.romans45.org/posters.htm)
 [![Absolutes](pomos/Absolutes.png)](http://www.romans45.org/posters.htm)
 
+## Recent reading
+Currently: [Explaining Postmodernism - Stephen R. C. Hicks](https://www.amazon.co.uk/Explaining-Postmodernism-Skepticism-Socialism-Rousseau-ebook/dp/B005D53DG0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1521377245&sr=8-1)
+
 # The Old List
 ## TL;DR - Give me a quick taster...
 * [Code in the Language of the Domain - Dan North](http://programmer.97things.oreilly.com/wiki/index.php/Code_in_the_Language_of_the_Domain)
