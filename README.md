@@ -23,11 +23,11 @@ In the meantime, watch out for the new list.
 * "Postmodernism? Really? Isn't that a bit heavy for software development?"
   * In a sense, this isn't just about software development. But even so, software, in most contexts, is largely about people and their assumptions and attitudes; relationships; communication; etc. And, increasingly, about politics and "activism" rather than just tech. So these things are unavoidable even here.
 
-![Dialogue](pomos/Dialogue.png)
-![Tolerance](pomos/Tolerance.png)
-![Beauty](pomos/Beauty.png)
-![Epistemology](pomos/Epistemology.png)
-![Absolutes](pomos/Absolutes.png)
+[![Dialogue](pomos/Dialogue.png)](http://www.romans45.org/posters.htm)
+[![Tolerance](pomos/Tolerance.png)](http://www.romans45.org/posters.htm)
+[![Beauty](pomos/Beauty.png)](http://www.romans45.org/posters.htm)
+[![Epistemology](pomos/Epistemology.png)](http://www.romans45.org/posters.htm)
+[![Absolutes](pomos/Absolutes.png)](http://www.romans45.org/posters.htm)
 
 # The Old List
 ## TL;DR - Give me a quick taster...
